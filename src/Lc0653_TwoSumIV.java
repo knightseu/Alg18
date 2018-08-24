@@ -1,9 +1,9 @@
 //https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/
 
-import common.TreeNode;
-
 import java.util.HashSet;
 import java.util.Set;
+
+import commonds.TreeNode;
 
 public class Lc0653_TwoSumIV {
     public boolean findTarget(TreeNode root, int k) {

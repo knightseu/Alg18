@@ -1,4 +1,4 @@
-package common;
+package commonds;
 
 public class TreeNode {
         public int val;

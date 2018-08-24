@@ -31,5 +31,6 @@ public class Lint0918_3Sum_smaller {
                 }
             }
         }
+        return count;
     }
 }
