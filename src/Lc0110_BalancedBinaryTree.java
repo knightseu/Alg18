@@ -19,7 +19,7 @@ public class Lc0110_BalancedBinaryTree {
 	}
 	
     public boolean isBalanced(TreeNode root) {
-        
+        return true;
     }
 
 }
