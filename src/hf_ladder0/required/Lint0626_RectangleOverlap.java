@@ -4,7 +4,7 @@
 
 
 import commonds.Point;
-public class Lc0836_RectangleOverlap {
+public class Lint0626_RectangleOverlap {
     /**
      * @param l1: top-left coordinate of first rectangle
      * @param r1: bottom-right coordinate of first rectangle

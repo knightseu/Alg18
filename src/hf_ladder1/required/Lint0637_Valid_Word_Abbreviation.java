@@ -21,7 +21,7 @@ Example 2:
 Given s = "apple", abbr = "a2e":
 Return false.
  */
-public class Lc0408_Valid_Word_Abbreviation {
+public class Lint0637_Valid_Word_Abbreviation {
     public static boolean validWordAbbreviation(String word, String abbr) {
         int l=0;
         int r=0;

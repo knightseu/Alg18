@@ -11,7 +11,7 @@ return ["2", "4->49", "51->74", "76->99"].
 import java.util.ArrayList;
 import java.util.List;
 
-public class Lc0163_MissingRange {
+public class Lint0641_MissingRange {
     /*
      * @param nums: a sorted integer array
      * @param lower: An integer

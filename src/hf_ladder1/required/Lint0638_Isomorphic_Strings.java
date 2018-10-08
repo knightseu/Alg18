@@ -22,7 +22,7 @@ You may assume both s and t have the same length.
 
 import java.util.HashMap;
 
-public class Lc0205_Isomorphic_Strings {
+public class Lint0638_Isomorphic_Strings {
     /**
      * @param s: a string
      * @param t: a string

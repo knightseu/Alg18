@@ -18,14 +18,14 @@ m.next(5) = (10 + 3 + 5) / 3 // return 6.00000
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Lc0346_MovingAverageDataStream {
+public class Lint0642_MovingAverageDataStream {
     private Queue<Integer> que;
     private int size;
     private int sum = 0;
     /*
      * @param size: An integer
      */
-    public Lc0346_MovingAverageDataStream(int size) {
+    public Lint0642_MovingAverageDataStream(int size) {
         // do intialization if necessary
         que = new LinkedList<>();
         this.size = size;
